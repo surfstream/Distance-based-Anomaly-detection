@@ -1,3 +1,19 @@
+Linux(terminal): 
+1.Using terminal navigate the source folder and compile all the files using the command
+  javac *.java
+2.After successful compilation, move one level up using
+  cd..
+3. Start the application using the command
+  java source.StartDetection
+  
+
+Any editor:
+1.import or open the project into the editor.
+2.select the StartDetection file present in the source directory
+3.Run StartDetection file
+
+
+
 StartDetection.java -- main class
 ---------------------------------------------------------------------------------
 

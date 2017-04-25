@@ -80,7 +80,7 @@ public class StartDetection extends JFrame implements ActionListener
 	     */
 	    t1 = new JTextField("8", 20);
 	    t2 = new JTextField("17.891367",20);
-	    t3 = new JTextField("81512", 20);
+	    t3 = new JTextField("181512", 20);
 	    t4 = new JTextField("256", 20);	
 	    t5 = new JTextField("16512", 20);
 	    t6 = new JTextField("16512", 20);

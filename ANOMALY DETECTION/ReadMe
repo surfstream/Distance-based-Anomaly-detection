@@ -7,7 +7,7 @@ Linux(terminal):
   java source.StartDetection
   
 
-Any editor:
+For windows or any other editor:
 1.import or open the project into the editor.
 2.select the StartDetection file present in the source directory
 3.Run StartDetection file

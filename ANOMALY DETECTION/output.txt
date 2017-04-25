@@ -1,0 +1,48 @@
+Join Rescheduling - Piecewise VP Tree Indexing
+Data Set has 3 attributes, 31569 instances
+
+D: 17.841198
+
+Anomaly 1 - Base Window ending at 30051
+Anomaly 2 - Base Window ending at 30307
+Anomaly 3 - Base Window ending at 31574
+Anomaly 4 - Base Window ending at 31830
+Anomaly 5 - Base Window ending at 61620
+Anomaly 6 - Base Window ending at 61876
+Anomaly 7 - Base Window ending at 63143
+Anomaly 8 - Base Window ending at 63399
+Time taken to Detect Anomalies = 111221
+Number of Anomalies Detected = 8
+Total Number of Distance Computations = 2431542
+
+-----------------------------------------------------------------
+Batch Monitoring
+Data Set has 3 attributes, 31569 instances
+
+Anomaly 1 - Base Window ending at 30051
+Anomaly 2 - Base Window ending at 30307
+Anomaly 3 - Base Window ending at 31574
+Anomaly 4 - Base Window ending at 31830
+Anomaly 5 - Base Window ending at 61620
+Anomaly 6 - Base Window ending at 61876
+Anomaly 7 - Base Window ending at 63143
+Anomaly 8 - Base Window ending at 63399
+Time taken to Detect Anomalies = 248360
+Number of Anomalies Detected = 8
+Total Number of Distance Computations = 6708377
+
+-----------------------------------------------------------------
+Simple Pruning
+Data Set has 3 attributes, 31569 instances
+
+Anomaly 1 - Base Window ending at 30051	0
+Anomaly 2 - Base Window ending at 30307	1
+Anomaly 3 - Base Window ending at 31574	0
+Anomaly 4 - Base Window ending at 31830	1
+Anomaly 5 - Base Window ending at 61620	0
+Anomaly 6 - Base Window ending at 61876	1
+Anomaly 7 - Base Window ending at 63143	0
+Anomaly 8 - Base Window ending at 63399	1
+Time taken to Detect Anomalies = 328979
+Number of Anomalies Detected = 8
+Total Number of Distance Computations = 53257131

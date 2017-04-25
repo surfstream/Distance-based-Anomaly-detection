@@ -1,0 +1,40 @@
+StartDetection.java -- main class
+---------------------------------------------------------------------------------
+
+Common Files
+
+TrajectoryPoint.java  -- Data structure for a point in trajectory data stream
+Parameters.java --  contains parameters needed for anomaly detection
+LoadData.java -- data structure and methods for loading and preprocessing dataset
+ComputeStats.java -- methods for computing distance between base windows etc
+
+---------------------------------------------------------------------------------
+
+Parameters needed for Simple Pruning:
+
+	1) Neighbor Threshold K 
+	2) Distance Threshold D 
+	3) Buffer Size 
+	4) Base Window Length 
+	5) Left Sliding Window Size
+	6) Right Sliding Window Size
+
+Files needed -- SimplePruning.java
+
+
+----------------------------------------------------------
+
+Parameters needed for Batch Monitoring:
+
+	1) Neighbor Threshold K 
+	2) Distance Threshold D 
+	3) Buffer Size 
+	4) Base Window Length 
+	5) Left Sliding Window Size
+	6) Right Sliding Window Size
+
+
+Files needed -- BatchMonitor.java
+		LocalCluster.java
+
+	

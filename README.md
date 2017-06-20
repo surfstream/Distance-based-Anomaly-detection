@@ -1,2 +1,3 @@
 # Distance-based-Anomaly-detection
-Advanced Database Project
+Efficient Anomaly Monitoring Over Moving Object
+Trajectory Streams
